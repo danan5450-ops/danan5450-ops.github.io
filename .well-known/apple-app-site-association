@@ -1,15 +1,12 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": [
-          "SQ938852YD.com.xiaoyin.focusRingV2"
-        ],
+        "appIDs": ["SQ938852YD.com.xiaoyin.focusRingV2"],
         "components": [
-          {
-            "/": "/journal/*",
-            "comment": "匹配手记建议通知的跳转路径"
-          }
+          { "/" : "/journal/*", "comment": "匹配手记建议路径" },
+          { "/" : "/trip-suggestion*", "comment": "匹配你的自动化旅行回顾路径" }
         ]
       }
     ]
