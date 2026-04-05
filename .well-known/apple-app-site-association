@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "SQ938852YD.com.xiaoyin.focusRingV2"
+        ],
+        "components": [
+          {
+            "/": "/journal/*",
+            "comment": "匹配手记建议通知的跳转路径"
+          }
+        ]
+      }
+    ]
+  }
+}
